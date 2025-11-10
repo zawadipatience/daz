@@ -1,0 +1,135 @@
+    .nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: goldenrod;
+    padding: 10px;
+    align-content:center ;
+    border-radius: 30px;
+    
+    }
+
+     .nav-links {
+      display:flex ;
+      gap: 20px;
+      font-size: 20px;
+      margin-left:auto ;
+     }
+   .nav-logo img {
+      width: 50px;
+    }
+
+    
+      .hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+    align-content:center ;
+    padding:10px ;
+    gap: 80px;
+    border-radius: 20px;
+     
+    
+      
+      
+
+      }
+    
+    
+
+    .hero-1{
+    gap: 60px;
+     
+     
+     
+  
+      
+      
+
+    }
+
+    .hero-2{
+      gap: 100px;
+    
+      
+
+    }
+    
+    
+    
+     
+
+     .tag{
+      display: flex ;
+      width: auto;
+      padding: 10px;
+      gap: 10px;
+      border: 70px;
+      background-color: purple;
+      justify-content: center;
+      align-content:center ;
+      border-radius: 20px;
+
+     }
+
+     .tag1{
+      gap: 100px;
+      margin: 40px;
+     }
+
+     
+
+     .tag-line{
+      display:flex;
+      gap:200px; 
+     justify-content: center;
+      align-content:center ;
+      
+    }
+
+    .container1{
+      background-color: pink;
+    padding: 100px;
+    border-radius: 20px;
+    }
+
+     .tag-line1{
+      gap: 100px;
+      display: flex;
+      display:flex; 
+     justify-content: center;
+     align-content:center ;
+     ;
+
+
+     }
+    
+     .link{
+      display:flex;
+      gap:20px; 
+     justify-content: center;
+     align-content:center ;
+
+     }
+    
+  .link1{
+    display:flex;
+      gap:40px; 
+     justify-content: center;
+      align-content:center ;
+
+  }
+
+    .container{
+      background-color: greenyellow;
+      padding: 100px;
+      border-radius: 20px;
+
+    }
+
+    
+
+
+  
+   
